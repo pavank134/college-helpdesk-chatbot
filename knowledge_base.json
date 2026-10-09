@@ -1,22 +1,28 @@
 
-{
-  "faqs": [
-    {
-      "question": "How can I check attendance?",
-      "answer": "Please check the official college attendance portal or contact your class coordinator."
-    },
-    {
-      "question": "When are exams conducted?",
-      "answer": "Please check the latest official college examination notice for exam dates."
-    },
-    {
-      "question": "How can I know lab timings?",
-      "answer": "Please contact your department or lab in-charge for the current lab timetable."
-    },
-    {
-      "question": "Where can I find college events?",
-      "answer": "Please check official college announcements or contact the event coordinator."
-    }
-  ]
-}
-
+[
+  {
+    "topic": "Attendance",
+    "keywords": "minimum attendance percentage attendance shortage attendance rules",
+    "answer": "Please check the latest official college attendance rules or contact your class coordinator. This demo does not verify the required attendance percentage."
+  },
+  {
+    "topic": "Semester exam timetable",
+    "keywords": "semester exam timetable examination dates exams",
+    "answer": "Please check the latest official college examination notice for the semester exam timetable."
+  },
+  {
+    "topic": "Computer lab record submission",
+    "keywords": "computer lab record submission practical lab deadline",
+    "answer": "Please contact your department or lab in-charge to confirm the current lab record submission deadline."
+  },
+  {
+    "topic": "College fest and events",
+    "keywords": "college fest events cultural activities event date",
+    "answer": "Please check official college announcements for the latest college fest and event dates."
+  },
+  {
+    "topic": "Attendance shortage",
+    "keywords": "attendance shortage condonation shortage leave",
+    "answer": "Please contact your class coordinator or college office for the official attendance shortage procedure."
+  }
+]
