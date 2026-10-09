@@ -1,1 +1,22 @@
 
+{
+  "faqs": [
+    {
+      "question": "How can I check attendance?",
+      "answer": "Please check the official college attendance portal or contact your class coordinator."
+    },
+    {
+      "question": "When are exams conducted?",
+      "answer": "Please check the latest official college examination notice for exam dates."
+    },
+    {
+      "question": "How can I know lab timings?",
+      "answer": "Please contact your department or lab in-charge for the current lab timetable."
+    },
+    {
+      "question": "Where can I find college events?",
+      "answer": "Please check official college announcements or contact the event coordinator."
+    }
+  ]
+}
+
